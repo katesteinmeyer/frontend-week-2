@@ -38,5 +38,32 @@ html {
 *****************************************************************************
 */
 
+h1 {
+  margin: 60px;
+}
+img{
+  padding: 0px, 10px;
+}
+
+ul{
+  width: 700px; 
+}
+
+ul li{
+  display: inline;
+  white-space:nowrap;
+  margin:20px;
+}
+
+nav{
+position:fixed;
+background-color: white;
+border-color: gray;
+border:1px;
+border-style: dotted;
+
+
+}
+
 
 
