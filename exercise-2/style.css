@@ -1,14 +1,14 @@
 /* Exercise 1 */
 p {
-  color: green
+  color: green;
 }
 
 h1 {
-  text-align: center
+  text-align: center;
 }
 
 a {
-  text-decoration: none
+  text-decoration: none;
 }
 
 html {
@@ -39,30 +39,28 @@ html {
 */
 
 h1 {
-  margin: 60px;
+  margin-top: 60px;
 }
-img{
-  padding: 0px, 10px;
+img {
+  padding-top: 10px;
 }
 
-ul{
+ul {
   width: 700px; 
 }
 
-ul li{
+ul li {
   display: inline;
-  white-space:nowrap;
-  margin:20px;
+  white-space: nowrap;
+  margin: 20px;
 }
 
-nav{
-position:fixed;
+nav {
+position: fixed;
 background-color: white;
 border-color: gray;
-border:1px;
+border: 1px;
 border-style: dotted;
-
-
 }
 
 

@@ -16,20 +16,20 @@ Named Colors: http://bit.ly/1g8MdPc
 
 ********************************************************************************
 */
-p{
+p {
     color: green;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
-a:link {
+a {
 text-decoration: none;
 }
 
-body{
+body {
 font-family: helvetica neue, verdana, sans-serif;
-background: black;
+background-color: antiquewhite;
 }
 
