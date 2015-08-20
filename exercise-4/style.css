@@ -17,3 +17,26 @@ label {
     left: 50%;
     right: 50%;
 }
+
+form{
+    width:500px;
+    border:50px;
+    background-color: blue;
+    padding: 15px;
+
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    align:center;
+
+}
+
+input[type=text], input[type=password]{
+ padding: 5px;
+ font-size: 15px;
+}
+
+input[type=submit]{
+ border: 1px solid red;
+ background: white;
+}
+
